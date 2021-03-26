@@ -39,3 +39,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'mimemagic', '0.3.5'
+
+gem 'devise'
+gem 'acts_as_favoritor'
+
